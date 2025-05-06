@@ -18,10 +18,10 @@ Aplikasi Android Native sederhana yang menampilkan portal berita dengan fitur au
 **Tampilan Aplikasi**
 
 <p align="center">
-  <img src="https://github.com/rynrifn/UTS-PEMMOB-1/blob/main/pict/pict1.png?raw=true" alt="Splash Screen" width="250"/>
-  <img src="https://github.com/rynrifn/UTS-PEMMOB-1/blob/main/pict/pict2.png?raw=true" alt="Halaman Login" width="250"/>
-  <img src="https://github.com/rynrifn/UTS-PEMMOB-1/blob/main/pict/pict3.png?raw=true" alt="Halaman Register" width="250"/>
-  <img src="https://github.com/rynrifn/UTS-PEMMOB-1/blob/main/pict/pict4.png?raw=true" alt="News Dashboard" width="250"/>
+  <img src="https://github.com/rynrifn/UTS-PEMMOB-1/blob/main/pict/pict1.png?raw=true" alt="Splash Screen" width="200"/>
+  <img src="https://github.com/rynrifn/UTS-PEMMOB-1/blob/main/pict/pict2.png?raw=true" alt="Halaman Login" width="200"/>
+  <img src="https://github.com/rynrifn/UTS-PEMMOB-1/blob/main/pict/pict3.png?raw=true" alt="Halaman Register" width="200"/>
+  <img src="https://github.com/rynrifn/UTS-PEMMOB-1/blob/main/pict/pict4.png?raw=true" alt="News Dashboard" width="200"/>
 </p>
 
 
